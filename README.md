@@ -1,4 +1,4 @@
-<img align="left" alt="thais-pic" height="160"  style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png"><br>
+<img align="center" alt="thais-pic" height="160"  style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png"><br>
 
 ## Oiii! Meu nome é Thaís Alessandra, estudande de Computação!
 <div align="center">
