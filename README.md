@@ -7,12 +7,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisalessandra&layout=compact&langs_count=7&theme=dracula"/>
   
     
-      ##Tecnologias que estou estudando</div>
+      ##Tecnologias que estou estudando
+</div>
 <div style="display: inline_block"><br>
-   <img align="right" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
+   <img align="center" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
   <img align="right" alt="thais-Python" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
-</div><br>
+</div>
   
   ##
  
