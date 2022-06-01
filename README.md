@@ -7,10 +7,8 @@
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="thais-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Java Script" height="30" width="40" src=" <img align="center" alt="thais-java" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  
- <img align="right" alt="thais-pic" height="160" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png">
+  <img align="center" alt="thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+ <img align="right" alt="thais-pic" height="160" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png"><br>
 </div>
   
   ##
