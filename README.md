@@ -3,11 +3,12 @@
   <a href="https://github.com/Thaisalessandra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaisalessandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisalessandra&layout=compact&langs_count=7&theme=dracula"/>
+    ## Tecnologias que estou estudando
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="thais-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
   <img align="center" alt="thais-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="thais-js" height="30" width="40" src=" <img align="center" alt="thais-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Java Script" height="30" width="40" src=" <img align="center" alt="thais-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   
  <img align="right" alt="thais-pic" height="160" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png">
 </div>
