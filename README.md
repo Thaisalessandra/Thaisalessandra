@@ -24,8 +24,6 @@
   <a href="https://www.linkedin.com/in/thais-alessandra-de-souza-costa-49a73614b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
-![Snake animation](https://github.com/Thaisalessandra/Thaisalessandra/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 © 2022 GitHub, Inc.
 Terms
