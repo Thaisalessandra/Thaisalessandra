@@ -1,4 +1,5 @@
-<img align="center" alt="thais-pic" height="160" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png"> ## Oiii! Meu nome é Thaís Alessandra, estudande de Computação!
+<img align="center" alt="thais-pic" height="200" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png"> 
+## Oiii! Meu nome é Thaís Alessandra, estudande de Computação!
 <div align="center">
   <a href="https://github.com/Thaisalessandra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thaisalessandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
