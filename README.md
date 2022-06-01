@@ -11,7 +11,7 @@
     
 </div>
 <div style="display: inline_block"><br>
-   <img align="center" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
+   <img align="left" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
   <img align="left" alt="thais-Python" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
 </div>
