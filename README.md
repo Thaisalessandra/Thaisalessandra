@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://img.wattpad.com/acdc8827ecea77e5ab2576aab1359a28ccf0cabf/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6d6a6f776d543470783254526d413d3d2d3736313332363237342e313562333733646432656462323364383735393337303931303933352e706e67">
 </div>
   
   ##
