@@ -1,5 +1,13 @@
-##                                 Oiii! Meu nome é Thaís Alessandra, estudande de Computação!
-##
+<h1 align="center" >Olá! Seja bem-vindo(a) 👋</h1>
+<div>
+  <img align="right" height="160" width="160" alt="kamila-gif" title="kamila-gif" src="https://user-images.githubusercontent.com/98965608/157795129- 4799f01c-1598-43af-903f-e08f92af299f.gif" />
+ 
+ - Apaixonada por tecnologia em busca do primeiro emprego na área de desenvolvimento;
+ - Estudando desde tecnologias dezembro de 2021;
+ - Estudante de Análise e Desenvolvimento de Sistemas;
+ - Disposta a aprender cada vez mais sobre tecnologia;
+ - Acredito que a tecnologia pode sim mudar a vida das pessoas pra melhor.
+</div>
 <div align="center">
 <img align="center" alt="thais-pic" height="160"  style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png"><br>
 </div>
