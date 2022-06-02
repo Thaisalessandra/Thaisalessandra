@@ -8,6 +8,8 @@
   
     
       ##Tecnologias que estou estudando
+    
+    ##
 </div>
 <div style="display: inline_block"><br>
    <img align="top" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
