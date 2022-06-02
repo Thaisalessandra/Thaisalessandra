@@ -1,19 +1,17 @@
-                                 ##Oiii! Meu nome é Thaís Alessandra, estudande de Computação!
+##                                 Oiii! Meu nome é Thaís Alessandra, estudande de Computação!
 <div align="center">
 <img align="center" alt="thais-pic" height="160"  style="border-radius:50px;" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png"><br>
 </div>
-##
+
 <div align="center">
 
 </div>
-##
+
 <div align="center">
   <a href="https://github.com/Thaisalessandra">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thaisalessandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisalessandra&layout=compact&langs_count=7&theme=dracula"/>
-  
-    
-      ##Tecnologias que estou estudando
+  ##                                            Tecnologias que estou estudando
     
 </div>
 <div align="center"><br>
