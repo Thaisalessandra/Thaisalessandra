@@ -3,15 +3,15 @@
 ## Oiii! Meu nome é Thaís Alessandra, estudande de Computação!
 <div align="center">
   <a href="https://github.com/Thaisalessandra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thaisalessandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisalessandra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Thaisalessandra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thaisalessandra&layout=compact&langs_count=7&theme=dracula"/>
   
     
       ##Tecnologias que estou estudando
 </div>
 <div style="display: inline_block"><br>
    <img align="center" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
-  <img align="right" alt="thais-Python" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="thais-Python" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 
 </div>
   
