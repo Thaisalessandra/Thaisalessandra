@@ -4,7 +4,7 @@
  
  - Apaixonada por tecnologia em busca do primeiro emprego na área de desenvolvimento;
  - Estudando Tecnologia desde Agosto de 2021;
- - Estudante de Computação- Licenciat ra; 
+ - Estudante de Computação- Licenciatura; 
  - Disposta a aprender cada vez mais sobre tecnologia;
  
 ##
