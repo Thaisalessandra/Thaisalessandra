@@ -37,3 +37,7 @@
   <a href="https://www.instagram.com/neuroticathais/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:taaysalessandra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thais-alessandra-de-souza-costa-49a73614b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!-- SCM Music Player https://www.scmplayer.net -->
+<script type="text/javascript" src="https://www.scmplayer.net/script.js" 
+data-config="{'skin':'skins/scmPurple/skin.css','volume':66,'autoplay':true,'shuffle':true,'repeat':1,'placement':'bottom','showplaylist':true,'playlist':[{'title':'Motivacional','url':'https://music.youtube.com/watch?v=m233NBSeEiA&list=OLAK5uy_miX9LNV75SRFTlr9OXGcBxKzVq5AtP08A'},{'title':'do re mi','url':'https://music.youtube.com/watch?v=dfzlUHOFQ5k&list=LM'}]}" ></script>
+<!-- SCM Music Player script end -->
