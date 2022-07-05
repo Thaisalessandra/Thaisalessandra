@@ -1,5 +1,5 @@
 <h1 align="center" >Olá! Seja bem-vindo(a) 👋</h1>
-<div>
+<div align="center">
   <img align="right" height="160" width="160" alt="Thais-pic" title="Thais-pic" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png" />
  
  - Apaixonada por tecnologia em busca do primeiro emprego na área de desenvolvimento;
@@ -9,7 +9,7 @@
  
 ##
 
-<h2 align="center" >       Tecnologias que estou estudando</h2>
+<h2 align="center" >Tecnologias que estou estudando</h2>
     
   </div>
 <div align="center"><br>
