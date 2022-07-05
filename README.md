@@ -9,7 +9,7 @@
  
 ##
 
-<h2 align="center" >Tecnologias que estou estudando</h2>
+<h3 align="center" >Tecnologias que estou estudando</h3>
     
   </div>
 <div align="center"><br>
