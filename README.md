@@ -1,6 +1,6 @@
 <h1 align="center" >Olá! Seja bem-vindo(a) 👋</h1>
 <div align="center">
-  <img align="right" height="160" width="160" alt="Thais-pic" title="Thais-pic" src="https://picrew.me/shareImg/org/202206/395214_crQBypHc.png" />
+  <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://assets.wprock.fr/emoji/joypixels/512/1f469-1f4bb.png" />
  
  - Apaixonada por tecnologia em busca do primeiro emprego na área de desenvolvimento;
  - Estudando Tecnologia desde Agosto de 2021;
