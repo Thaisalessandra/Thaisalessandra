@@ -2,9 +2,9 @@
 <div align="center">
   <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://assets.wprock.fr/emoji/joypixels/512/1f469-1f4bb.png" />
  
- - Apaixonada por tecnologia em busca do primeiro emprego na área de desenvolvimento;
+ - Apaixonada por tecnologia e em busca do primeiro trabalho na área de desenvolvimento;
  - Estudando Tecnologia desde Agosto de 2021;
- - Estudante de Computação- Licenciatura; 
+ - Estudante de Computação - Licenciatura; 
  - Disposta a aprender cada vez mais sobre tecnologia;
  
 ##
