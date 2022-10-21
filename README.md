@@ -10,9 +10,7 @@
 ##
 
 <h1 align="center" > Tecnologias que estou estudando</h1>
-<div align="center">
-  <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" />
-  <img align="left" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
+
     
   </div>
 <div align="center"><br>
@@ -32,9 +30,6 @@
   
 
 <h2 align="center" >Links úteis para contato</h2>
-
-
-
 
 
 
@@ -59,4 +54,6 @@
   <img height="150em" src="https://mestreacasa.gva.es/c/document_library/get_file?folderId=500027157917&name=DLFE-2489922.gif"/></img>
   </a>
 </div>
-
+<div align="center">
+  <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" />
+  <img align="left" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
