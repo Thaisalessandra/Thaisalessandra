@@ -46,12 +46,12 @@
  <h2 align="center" >Link para meu portifólio</h2>
  
 <div align="center">
-<img align="center" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/b6/fd/18/b6fd1893a54478eb393d13c5d1994ef7.gif" />
+<img align="center" height="140" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/b6/fd/18/b6fd1893a54478eb393d13c5d1994ef7.gif" />
 </div>
 <div align="center">
 
 <a href="https://portifolio-five-xi.vercel.app" target="_blank">
-  <img height="150em" src="https://mestreacasa.gva.es/c/document_library/get_file?folderId=500027157917&name=DLFE-2489922.gif"/></img>
+  <img height="120" src="https://mestreacasa.gva.es/c/document_library/get_file?folderId=500027157917&name=DLFE-2489922.gif"/></img>
   </a>
 </div>
 <div align="center">
