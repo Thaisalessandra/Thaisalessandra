@@ -16,7 +16,8 @@
 <div align="center"><br>
    <img align="middle" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
   <img align="middle" alt="thais-Python" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  
+  <img align="right" height="130" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" />
+  <img align="left" height="130" width="170" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
 </div>
 
 
@@ -54,6 +55,3 @@
   <img height="120" src="https://mestreacasa.gva.es/c/document_library/get_file?folderId=500027157917&name=DLFE-2489922.gif"/></img>
   </a>
 </div>
-<div align="center">
-  <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" />
-  <img align="left" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
