@@ -9,17 +9,18 @@
  
 ##
 
-<h1 align="center" > Tecnologias que estou estudando</h1>
+<h1 align="center" > Tecnologias que estou estudando  <img align="middle" height="70" width="70" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" /></h1>
 
     
   </div>
 <div align="center"><br>
    <img align="middle" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
   <img align="middle" alt="thais-Python" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="right" height="130" width="170" alt="Thais-pic" title="Thais-pic" src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" />
-  <img align="left" height="130" width="170" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
-</div>
-
+  <img align="middle" alt="thais-Python" height="100" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"> 
+  <img align="middle" alt="thais-Python" height="100" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+  
+  
+ 
 
 ##
 
@@ -54,4 +55,9 @@
 <a href="https://portifolio-five-xi.vercel.app" target="_blank">
   <img height="80" src="https://mestreacasa.gva.es/c/document_library/get_file?folderId=500027157917&name=DLFE-2489922.gif"/></img>
   </a>
+</div>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thaisalessandra}/count.svg" /></p> 
+<br>
 </div>
