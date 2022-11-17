@@ -56,8 +56,4 @@
   <img height="80" src="https://mestreacasa.gva.es/c/document_library/get_file?folderId=500027157917&name=DLFE-2489922.gif"/></img>
   </a>
 </div>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Thaisalessandra}/count.svg" /></p> 
-<br>
-</div>
+
