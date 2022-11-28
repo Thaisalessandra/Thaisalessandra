@@ -1,23 +1,24 @@
-<h1 align="center" >Olá! Seja bem-vindo(a) 👋</h1>
+<h1 align="center" >Olá!<br> Seja bem-vindo(a) 👋</h1>
 <div align="center">
-  <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://assets.wprock.fr/emoji/joypixels/512/1f469-1f4bb.png" />
+  <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
  
- - Apaixonada por tecnologia e em busca do primeiro trabalho na área de desenvolvimento;
- - Estudando Tecnologia desde Agosto de 2021;
- - Estudante de Computação - Licenciatura; 
- - Disposta a aprender cada vez mais sobre tecnologia;
+ - Apaixonada por tecnologia e estou em busca de minha primeira oportunidade na área de desenvolvimento;
+ 
+ 
  
 ##
-
-<h1 align="center" > Tecnologias que estou estudando  <img align="middle" height="70" width="70" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" /></h1>
+</div>
+<h1 align="center">Tecnologias que estou estudando</h1>
 
     
-  </div>
+  
 <div align="center"><br>
-   <img align="middle" alt="thais-java" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
-  <img align="middle" alt="thais-Python" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img align="middle" alt="thais-Python" height="100" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"> 
-  <img align="middle" alt="thais-Python" height="100" width="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+ 
+   <img align="middle" alt="thais-java" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
+  <img align="middle" alt="thais-Python" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="middle" alt="thais-Python" height="80" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png"> 
+  <img align="middle" alt="thais-Python" height="80" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+   <img align="middle" alt="thais-js" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
   
   
  
