@@ -1,6 +1,6 @@
 <h1 align="center" >Olá!<br> Seja bem-vindo(a) 👋</h1>
 <div align="center">
-  <img align="right" height="170" width="170" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
+  <img align="right" height="100" width="100" alt="Thais-pic" title="Thais-pic" src="https://media.tenor.com/-6m2vqRjKDEAAAAj/geek-girl.gif" />
  
  - Apaixonada por tecnologia e estou em busca de minha primeira oportunidade na área de desenvolvimento;
  
