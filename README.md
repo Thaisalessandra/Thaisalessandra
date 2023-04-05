@@ -33,7 +33,7 @@
 </div>
   
 
-<h2 align="center" >Links úteis para contato</h2>
+<h2 align="center" >Contato</h2>
 
 
 
