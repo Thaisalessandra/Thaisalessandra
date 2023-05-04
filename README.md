@@ -28,6 +28,7 @@
 <div align="center">
   <a href="https://github.com/Thaisalessandra">
   <img height="140em" src="http://github-readme-streak-stats.herokuapp.com?user=Thaisalessandra&theme=cobalt&border_radius=6.4&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thaisalessandra&show_icons=true&theme=radical)
   
 
 </div>
