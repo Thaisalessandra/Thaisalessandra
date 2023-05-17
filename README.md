@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Thaís Alessandra and I'm a Developer</h2>
+<h2 align="center">Hi 👋! My name is Thaís Alessandra </h2>
 
 ###
 
