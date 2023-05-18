@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <h1 align="center">Tecnologias que estou estudando</h1>
+  <h1 align="center">Technologies I'm studying</h1>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="42" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="42" alt="python logo"  />
