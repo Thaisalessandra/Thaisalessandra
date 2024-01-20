@@ -1,23 +1,35 @@
-<h2 align="center">Hi 👋! My name is Thaís Alessandra </h2>
 
+
+# Olá, eu sou a Thaís! <img align="right" height="80" src="https://i.imgflip.com/65efzo.gif"  />
+
+
+## 🚀 Sobre mim
+Eu sou uma pessoa desenvolvedora full-stack...
 ###
+😄 Pronomes - Ela/Dela
 
-<div align="center">
-  <img align="left" height="80" src="https://i.imgflip.com/65efzo.gif"  />
+👩‍💻 Trabalho atualmente na Universidade Estadual do Norte do Paraná
+
+🧠 Estou aprendendo C#, MySql
+
+💬 Me pergunte sobre quais assuntos estou estudando no momento, como por exemplo: banco de dados, C#
+
+📫 Como entrar em contato comigo?
+
+
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thaisalessandra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="140" alt="languages graph"  />
-<img align="right" height="80" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+- ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bellatee.com.br/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thais-alessandra-souza/)
+[![gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taaysalessandra@gmail.com)
 
 
-###
 
 
-
-###
-
-<div align="center">
-  <h1 align="center">Technologies I'm studying</h1>
+## 🛠 Habilidades
+Javascript, HTML, CSS, C#, Java, Python, MySql, SqlServer
+<div >
+  
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="42" alt="java logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="42" alt="python logo"  />
@@ -31,12 +43,8 @@
           
 </div>
 
-###
 
-<div align="center">
-  <a href = "mailto:taaysalessandra@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/thais-alessandra-de-souza-costa-49a73614b/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
 
  
 
