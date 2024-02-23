@@ -4,7 +4,7 @@
 
 
 ## 🚀 Sobre mim
-Eu sou uma pessoa desenvolvedora em desenvolvimento...
+Eu sou uma desenvolvedora em desenvolvimento...
 ###
 😄 Pronomes - Ela/Dela
 
